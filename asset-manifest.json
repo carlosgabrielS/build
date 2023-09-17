@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6bb3df3.css",
-    "main.js": "/static/js/main.07cbb683.js",
+    "main.css": "/static/css/main.d69d69c0.css",
+    "main.js": "/static/js/main.3c677170.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/porteiro-zip.jpg": "/static/media/porteiro-zip.9abade0afb11a8118ce2.jpg",
     "static/media/marcenaria.jpg": "/static/media/marcenaria.9641d399e2b214348995.jpg",
@@ -9,12 +9,12 @@
     "static/media/logo2.png": "/static/media/logo2.eb6d804506c1cacc38b8.png",
     "static/media/logo.svg": "/static/media/logo.104a750b31789e070777d75a5d3d9e4d.svg",
     "index.html": "/index.html",
-    "main.d6bb3df3.css.map": "/static/css/main.d6bb3df3.css.map",
-    "main.07cbb683.js.map": "/static/js/main.07cbb683.js.map",
+    "main.d69d69c0.css.map": "/static/css/main.d69d69c0.css.map",
+    "main.3c677170.js.map": "/static/js/main.3c677170.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6bb3df3.css",
-    "static/js/main.07cbb683.js"
+    "static/css/main.d69d69c0.css",
+    "static/js/main.3c677170.js"
   ]
 }
