@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5c03297.css",
-    "main.js": "/static/js/main.737ca4d0.js",
+    "main.css": "/static/css/main.86f04046.css",
+    "main.js": "/static/js/main.7f2fa94d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/porteiro-zip.jpg": "/static/media/porteiro-zip.9abade0afb11a8118ce2.jpg",
-    "static/media/marcenaria.jpg": "/static/media/marcenaria.9641d399e2b214348995.jpg",
-    "static/media/eletricista-zip.jpg": "/static/media/eletricista-zip.503f795579c619370c20.jpg",
+    "static/media/porteiro-zip.jpg": "/static/media/porteiro-zip.ffadd0302fc41f6a2674.jpg",
+    "static/media/eletricista-zip.jpg": "/static/media/eletricista-zip.07b7c53696271c6ba60f.jpg",
+    "static/media/local-de-construcao.jpg": "/static/media/local-de-construcao.0889bb617ca6176c5995.jpg",
     "static/media/logo2.png": "/static/media/logo2.eb6d804506c1cacc38b8.png",
+    "static/media/logo-multicolor.png": "/static/media/logo-multicolor.714782e65c3930ffd922.png",
     "static/media/logo.svg": "/static/media/logo.104a750b31789e070777d75a5d3d9e4d.svg",
     "index.html": "/index.html",
-    "main.f5c03297.css.map": "/static/css/main.f5c03297.css.map",
-    "main.737ca4d0.js.map": "/static/js/main.737ca4d0.js.map",
+    "main.86f04046.css.map": "/static/css/main.86f04046.css.map",
+    "main.7f2fa94d.js.map": "/static/js/main.7f2fa94d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5c03297.css",
-    "static/js/main.737ca4d0.js"
+    "static/css/main.86f04046.css",
+    "static/js/main.7f2fa94d.js"
   ]
 }
