@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffb937fd.css",
-    "main.js": "/static/js/main.be3a2d5a.js",
+    "main.css": "/static/css/main.feb2ee98.css",
+    "main.js": "/static/js/main.d104b22b.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/porteiro-zip.jpg": "/static/media/porteiro-zip.ffadd0302fc41f6a2674.jpg",
     "static/media/eletricista-zip.jpg": "/static/media/eletricista-zip.07b7c53696271c6ba60f.jpg",
@@ -10,12 +10,12 @@
     "static/media/logo-multicolor.png": "/static/media/logo-multicolor.714782e65c3930ffd922.png",
     "static/media/logo.svg": "/static/media/logo.104a750b31789e070777d75a5d3d9e4d.svg",
     "index.html": "/index.html",
-    "main.ffb937fd.css.map": "/static/css/main.ffb937fd.css.map",
-    "main.be3a2d5a.js.map": "/static/js/main.be3a2d5a.js.map",
+    "main.feb2ee98.css.map": "/static/css/main.feb2ee98.css.map",
+    "main.d104b22b.js.map": "/static/js/main.d104b22b.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffb937fd.css",
-    "static/js/main.be3a2d5a.js"
+    "static/css/main.feb2ee98.css",
+    "static/js/main.d104b22b.js"
   ]
 }
