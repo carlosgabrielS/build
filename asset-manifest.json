@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dea22e81.css",
-    "main.js": "/static/js/main.e678426a.js",
+    "main.css": "/static/css/main.150b926f.css",
+    "main.js": "/static/js/main.8373af52.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/4.jpeg": "/static/media/4.247d38262bc091455905.jpeg",
     "static/media/porteiro-zip.jpg": "/static/media/porteiro-zip.ffadd0302fc41f6a2674.jpg",
@@ -15,15 +15,16 @@
     "static/media/1.jpeg": "/static/media/1.30e568d7cbd15a7303dd.jpeg",
     "static/media/logo2.png": "/static/media/logo2.eb6d804506c1cacc38b8.png",
     "static/media/6.jpeg": "/static/media/6.4c4bace11ec361bbe0a9.jpeg",
+    "static/media/logo-white2.png": "/static/media/logo-white2.131d80689cb2ecb1605e.png",
     "static/media/logo-multicolor.png": "/static/media/logo-multicolor.714782e65c3930ffd922.png",
     "static/media/logo.svg": "/static/media/logo.104a750b31789e070777d75a5d3d9e4d.svg",
     "index.html": "/index.html",
-    "main.dea22e81.css.map": "/static/css/main.dea22e81.css.map",
-    "main.e678426a.js.map": "/static/js/main.e678426a.js.map",
+    "main.150b926f.css.map": "/static/css/main.150b926f.css.map",
+    "main.8373af52.js.map": "/static/js/main.8373af52.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dea22e81.css",
-    "static/js/main.e678426a.js"
+    "static/css/main.150b926f.css",
+    "static/js/main.8373af52.js"
   ]
 }
